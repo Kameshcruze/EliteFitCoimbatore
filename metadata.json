@@ -1,0 +1,8 @@
+{
+  "name": "Elite Fit Coimbatore",
+  "description": "Premium luxury fitness club in Thudiyalur, Coimbatore featuring expert training and world-class equipment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
